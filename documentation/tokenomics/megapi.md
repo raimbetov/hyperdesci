@@ -10,7 +10,7 @@ To test [the vision](../introduction/the-vision.md) in practice, we will launch 
 * **Token Utility:**
   * Governance rights
   * Grant participation
-* **Token allocation:** 10% of the supply will be distributed to the community, with 90% going to the $MEGAPI treasury.
+* **Token allocation:** 10% of the supply will be distributed to the community, with 90% going to the **$MEGAPI** treasury.
 
 ### Treasury
 

@@ -2,13 +2,13 @@
 
 ## SCIENCE TO THE MOON! 🌙
 
-MEGAPI is the rocket fuel powering the next scientific revolution! We're sovereign individuals who know that when science wins, we ALL win!
+[**$MEGAPI**](../tokenomics/megapi.md) is the rocket fuel powering the next scientific revolution! We're sovereign individuals who know that when science wins, we ALL win!
 
 ## WHY WE'RE HERE
 
-The old ways of funding science are SLOW and INEFFICIENT! Every MEGAPI token:
+The old ways of funding science are SLOW and INEFFICIENT! Every **$MEGAPI** token:
 
-* Funds real science in REAL-TIME🔬
+* Funds real science in REAL-TIME 🔬
 * Gives you governance power 🗳️
 * When science wins, MEGAPI grows! 📈
 
@@ -16,7 +16,7 @@ The old ways of funding science are SLOW and INEFFICIENT! Every MEGAPI token:
 
 **GIVE FIRST!** 🎁
 
-* We build cool stuff that helps EVERYONE
+* We build cool stuff that helps EVERYONE!
 
 **FRIENDS NOT FOES!** 👫
 
