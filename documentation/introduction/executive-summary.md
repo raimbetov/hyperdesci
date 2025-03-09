@@ -8,4 +8,4 @@ This framework describes a perpetual grants mechanism for _decentralized science
 * Convertible returns from successful projects flow back to the treasury.
 * Slashing mechanisms deter misuse of funds and maintain fairness.
 * Governance is handled through [_Gardens_](../governance/governance-participation/gardens.md)-based conviction voting to ensure low-attention, decentralized decision-making.
-* [**$MEGAPI**](../tokenomics/megapi.md) token aligns incentives between projects and the wider ecosystem.
+* [**$MEGAPI**](../tokenomics/megapi/) token aligns incentives between projects and the wider ecosystem.
