@@ -18,6 +18,4 @@ This is an evolving experiment, starting with the launch of [**$MEGAPI**](tokeno
 
 <figure><img src=".gitbook/assets/06_hyperstructure_small.png" alt=""><figcaption><p><strong>Continuous Convertible Grants Framework</strong></p></figcaption></figure>
 
-
-
 [^1]: Distributed ledger technology; blockchain.

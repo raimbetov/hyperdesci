@@ -25,3 +25,5 @@
 * [Appendix 1: Glossary & Key Concepts](appendices/appendix-1-glossary-and-key-concepts.md)
 * [Appendix 2: Risk Factors](appendices/appendix-2.md)
 * [Appendix 3: HyperStructure Properties](appendices/appendix-3-hyperstructure-properties.md)
+* [MANIFESTO 🧪🚀](appendices/manifesto.md)
+* [COVENANT](appendices/covenant.md)
