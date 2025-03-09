@@ -2,7 +2,7 @@
 
 ## SCIENCE TO THE MOON! 🌙
 
-[**$MEGAPI**](../tokenomics/megapi.md) is the rocket fuel powering the next scientific revolution! We're sovereign individuals who know that when science wins, we ALL win!
+[**$MEGAPI**](../tokenomics/megapi/) is the rocket fuel powering the next scientific revolution! We're sovereign individuals who know that when science wins, we ALL win!
 
 ## WHY WE'RE HERE
 

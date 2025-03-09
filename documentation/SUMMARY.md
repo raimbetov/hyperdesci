@@ -9,7 +9,8 @@
 
 ## TOKENOMICS
 
-* [MEGAPI](tokenomics/megapi.md)
+* [MEGAPI](tokenomics/megapi/README.md)
+  * [Launch](tokenomics/megapi/launch.md)
 
 ## Governance
 

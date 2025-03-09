@@ -16,7 +16,7 @@ If our project succeeds, we will give back by:
 
 * Contributing a portion (suggested 2-5%) of future revenue
 * Sharing project tokens with the treasury if applicable
-* Buying and holding [**$MEGAPI**](../tokenomics/megapi.md) tokens
+* Buying and holding [**$MEGAPI**](../tokenomics/megapi/) tokens
 * Finding other ways to support the ecosystem
 
 We also aim to:

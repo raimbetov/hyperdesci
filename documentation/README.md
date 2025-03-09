@@ -1,5 +1,5 @@
 ---
-description: ver. 1; Mar-2025.
+description: ver. Mar-2025
 ---
 
 # CCGF
@@ -14,7 +14,7 @@ Inspired by successful mechanisms like [_Quadratic Funding_](https://www.wtfisqf
 
 If you are new to [_Web3_](#user-content-fn-1)[^1] and these terms, we suggest reading [**Appendix 1: Glossary & Key Concepts**](appendices/appendix-1-glossary-and-key-concepts.md) first.
 
-This is an evolving experiment, starting with the launch of [**$MEGAPI**](tokenomics/megapi.md) token and [_Gardens_-based governance](governance/governance-participation/gardens.md).
+This is an evolving experiment, starting with the launch of [**$MEGAPI**](tokenomics/megapi/) token and [_Gardens_-based governance](governance/governance-participation/gardens.md).
 
 :bangbang: **WARNING:** As with any experimental framework, there are risks involved, and lots of missing pieces will be determined through the governance process. Please read [**Appendix 2: Risk Factors**](appendices/appendix-2.md) before participating.
 

@@ -2,7 +2,7 @@
 
 ## HyperDeSci Experiment Three: $MEGAPI
 
-To test [the vision](../introduction/the-vision.md) in practice, we will launch a new experimental funding mechanism powered by **$MEGAPI**.
+To test [the vision](../../introduction/the-vision.md) in practice, we will launch a new experimental funding mechanism powered by **$MEGAPI**.
 
 ### Tokenomics
 
