@@ -1,11 +1,8 @@
 # Table of contents
 
-* [MANIFESTO 🧪🚀](README.md)
-* [COVENANT](covenant.md)
-
 ## Introduction
 
-* [CCGF](introduction/readme.md)
+* [CCGF](README.md)
 * [Executive Summary](introduction/executive-summary.md)
 * [The Vision](introduction/the-vision.md)
 * [The Mechanism](introduction/the-mechanism.md)
