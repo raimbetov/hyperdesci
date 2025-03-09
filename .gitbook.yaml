@@ -1,0 +1,5 @@
+root: ./documentation/
+
+structure:
+  readme: ./documentation/README.md
+  summary: ./documentation/SUMMARY.md
