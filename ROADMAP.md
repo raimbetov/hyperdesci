@@ -6,3 +6,7 @@
     - How much goes to DEX?
     - How Much for the Streaming QF (initially 5% with a round lasting for 3 months?)
     - How much goes to builder support (5%? $10 MEGAPI per builder per day?)
+
+6. We get XXX projects to jump on the round
+
+7. Once experiments done - pinksale, will happen in ~6 months
