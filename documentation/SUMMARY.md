@@ -9,7 +9,8 @@
 
 ## TOKENOMICS
 
-* [MEGAPI](tokenomics/megapi.md)
+* [MEGAPI](tokenomics/megapi/README.md)
+  * [Launch](tokenomics/megapi/launch.md)
 
 ## Governance
 
@@ -18,7 +19,8 @@
 * [Governance Framework](governance/governance-framework.md)
 * [Project Nomination](governance/project-nomination.md)
 * [Project Evaluation Criteria](governance/project-evaluation-criteria.md)
-* [Funding Experiments' Selection](governance/funding-experiments-selection.md)
+* [Funding Experiments' Selection](governance/funding-experiments-selection/README.md)
+  * [First Experiments](governance/funding-experiments-selection/first-experiments.md)
 
 ## Appendices
 

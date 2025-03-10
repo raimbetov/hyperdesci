@@ -1,5 +1,5 @@
 ---
-description: ver. 1; Mar-2025.
+description: ver. Mar-2025
 ---
 
 # CCGF
@@ -12,9 +12,11 @@ The **Continuous Convertible Grants Framework** (CCGF) aims to become a [_HyperS
 
 Inspired by successful mechanisms like [_Quadratic Funding_](https://www.wtfisqf.com/), [_StreamingQF_](https://github.com/Geo-Web-Project/streaming-quadratic-funding), and [_Gardens_](https://www.gardens.fund/), CCGF represents an evolution of these approaches designed to create greater impact across the **DeSci ecosystem**.
 
-If you are new to [_Web3_](#user-content-fn-1)[^1] and these terms, we suggest reading [**Appendix 1: Glossary & Key Concepts**](appendices/appendix-1-glossary-and-key-concepts.md) first. Please be aware of the risks associated with cryptocurrencies by reading [**Appendix 2: Risk Factors**](appendices/appendix-2.md).
+If you are new to [_Web3_](#user-content-fn-1)[^1] and these terms, we suggest reading [**Appendix 1: Glossary & Key Concepts**](appendices/appendix-1-glossary-and-key-concepts.md) first.
 
-This is an evolving experiment, starting with the launch of [**$MEGAPI**](tokenomics/megapi.md) token and [_Gardens_-based governance](governance/governance-participation/gardens.md).
+This is an evolving experiment, starting with the launch of [**$MEGAPI**](tokenomics/megapi/) token and [_Gardens_-based governance](governance/governance-participation/gardens.md).
+
+:bangbang: **WARNING:** As with any experimental framework, there are risks involved, and lots of missing pieces will be determined through the governance process. Please read [**Appendix 2: Risk Factors**](appendices/appendix-2.md) before participating.
 
 <figure><img src=".gitbook/assets/06_hyperstructure_small.png" alt=""><figcaption><p><strong>Continuous Convertible Grants Framework</strong></p></figcaption></figure>
 
