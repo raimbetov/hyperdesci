@@ -47,7 +47,8 @@ Check out our past funding rounds and learnings:
 - [Twitter @HyperDeSci](https://x.com/hyperdesci) - Follow our journey
 - [Website](https://hyperdesci.xyz) - Visit our official website
 - [CCGF Whitepaper @ Gitbook](https://hyperdesci.gitbook.io/ccgf)
-
+- [xMEGAPI Token](https://basescan.org/token/0x7f8beda08fb7f1f3350d4be7f333f5a20f3247aa) - CA: 0x7f8beda08fb7f1f3350d4be7f333f5a20f3247aa
+- [Community Multisig](https://basescan.org/address/0xb4fdd35b90c847af5ffa0aa2eafb541806e84f2a) - 0xb4fdd35b90c847af5ffa0aa2eafb541806e84f2a
 
 ### Learn More 📖
 - [What is QF?](https://qf.gitcoin.co)
