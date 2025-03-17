@@ -8,9 +8,9 @@ We're evolving from traditional QF rounds to a Continuous Convertible Grants Fra
 
 ### Quick Links 📚
 - [CCGF Whitepaper](./CCGF_WHITEPAPER.MD) - Our framework for sustainable science funding
-- [Community Covenant](./HyperDeSci_Community_Covenant.md) - How we work together
+- [Community Covenant](./documentation/appendices/covenant.md) - How we work together
 - [Recognition System](./HyperDeSci_Covenant_Recognition_System.md) - How we celebrate contributions
-- [Manifesto](./HYPERDESCI_MANIFESTO.md) - Our vision and values
+- [Manifesto](./documentation/appendices/manifesto.md) - Our vision and values
 
 ### Key Features ⚡
 - Continuous funding streams (no more waiting for grant rounds!)
