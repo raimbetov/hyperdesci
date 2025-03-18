@@ -6,11 +6,13 @@ Building unstoppable science machines! We're creating HyperStructures to fund De
 ## Current Status: $MEGAPI Launch 🚀
 We're evolving from traditional QF rounds to a Continuous Convertible Grants Framework (CCGF) powered by the $MEGAPI token. This isn't just another token - it's a movement to revolutionize how science gets funded!
 
+
 ### Quick Links 📚
 - [CCGF Whitepaper](./CCGF_WHITEPAPER.MD) - Our framework for sustainable science funding
-- [Community Covenant](./documentation/appendices/covenant.md) - How we work together
+- [Community Covenant](./HyperDeSci_Community_Covenant.md) - How we work together
 - [Recognition System](./HyperDeSci_Covenant_Recognition_System.md) - How we celebrate contributions
-- [Manifesto](./documentation/appendices/manifesto.md) - Our vision and values
+- [Manifesto](./HYPERDESCI_MANIFESTO.md) - Our vision and values
+- [Community on Gardens](https://app.gardens.fund/gardens/8453/0x7f8beda08fb7f1f3350d4be7f333f5a20f3247aa/0x96aa42ac2a15b897a12d736a28fbbc831f389d96)
 
 ### Key Features ⚡
 - Continuous funding streams (no more waiting for grant rounds!)
@@ -27,9 +29,9 @@ We're evolving from traditional QF rounds to a Continuous Convertible Grants Fra
 ## How to Get Started 🎯
 
 ### 1. Join as a Citizen
-- Stake 10,000 $MEGAPI
-- Contribute 10% of staked $MEGAPI to treasury
-- Get full governance rights
+- Stake 3140 $MEGAPI
+- 10% of staked $MEGAPI goes to treasury
+- Get governance rights
 
 ### 2. Apply for Funding
 - DeSci projects welcome
@@ -47,8 +49,7 @@ Check out our past funding rounds and learnings:
 - [Twitter @HyperDeSci](https://x.com/hyperdesci) - Follow our journey
 - [Website](https://hyperdesci.xyz) - Visit our official website
 - [CCGF Whitepaper @ Gitbook](https://hyperdesci.gitbook.io/ccgf)
-- [xMEGAPI Token](https://basescan.org/token/0x7f8beda08fb7f1f3350d4be7f333f5a20f3247aa) - CA: 0x7f8beda08fb7f1f3350d4be7f333f5a20f3247aa
-- [Community Multisig](https://basescan.org/address/0xb4fdd35b90c847af5ffa0aa2eafb541806e84f2a) - 0xb4fdd35b90c847af5ffa0aa2eafb541806e84f2a
+
 
 ### Learn More 📖
 - [What is QF?](https://qf.gitcoin.co)
