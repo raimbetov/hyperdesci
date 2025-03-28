@@ -6,7 +6,7 @@
 2. By joining, you pledge to adhere to the community [**Covenant**](../../appendices/covenant.md).
 3. At the time of joining, you stake [**$xMEGAPI**](../../tokenomics/megapi/pre-token.md) tokens, representing your voting power:
 
-<figure><img src="../../.gitbook/assets/Screenshot_20250328_184418.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_20250328_193641.png" alt=""><figcaption></figcaption></figure>
 
 * Flat 1 kiloPi **$xMEGAPI** as a registration stake.
 * 10% of staked **$xMEGAPI** goes to the treasury as a community fee.
